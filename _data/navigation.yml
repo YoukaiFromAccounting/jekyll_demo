@@ -4,16 +4,16 @@
 # links. Removing a link prevents it from showing in the header, but does not
 # prevent it from being included in the site.
 
-main:
-  - title: "Academic"
-    url: /publications/
+# main:
+#   - title: "Academic"
+#     url: /publications/
 
-  - title: "Software"
-    url: /talks/    
+#   - title: "Software"
+#     url: /talks/    
 
-  - title: "Misc"
-    url: /teaching/    
+#   - title: "Misc"
+#     url: /teaching/    
     
-  - title: "Vita"
-    url: /cv/
+#   - title: "Vita"
+#     url: /cv/
     
